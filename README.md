@@ -1,5 +1,5 @@
 # TabBarLayout
-一个可拓展的android底栏组件
+一个可拓展的android底栏组件（不维护，建议使用官方组件BottomNavigationView）
 
 使用：
 <!--底部Tab栏-->
